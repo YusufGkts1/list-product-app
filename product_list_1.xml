@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <product>
+    <ID>1</ID>
+    <ProductName>Product 1</ProductName>
+    <Price>1</Price>
+    <Category>Electronic</Category>
+  </product>
+  <product>
+    <ID>2</ID>
+    <ProductName>Product 2</ProductName>
+    <Price>2</Price>
+    <Category>Fashion</Category>
+  </product>
+  <product>
+    <ID>3</ID>
+    <ProductName>Product 3</ProductName>
+    <Price>3</Price>
+    <Category>Home Decor</Category>
+  </product>
+  <product>
+    <ID>4</ID>
+    <ProductName>Product 4</ProductName>
+    <Price>4</Price>
+    <Category>Electronic</Category>
+  </product>
+  <product>
+    <ID>5</ID>
+    <ProductName>Product 5</ProductName>
+    <Price>5</Price>
+    <Category>Fashion</Category>
+  </product>
+  <product>
+    <ID>6</ID>
+    <ProductName>Product 6</ProductName>
+    <Price>6</Price>
+    <Category>Home Decor</Category>
+  </product>
+  <product>
+    <ID>7</ID>
+    <ProductName>Product 7</ProductName>
+    <Price>7</Price>
+    <Category>Electronic</Category>
+  </product>
+  <product>
+    <ID>8</ID>
+    <ProductName>Product 8</ProductName>
+    <Price>8</Price>
+    <Category>Fashion</Category>
+  </product>
+  <product>
+    <ID>9</ID>
+    <ProductName>Product 9</ProductName>
+    <Price>9</Price>
+    <Category>Home Decor</Category>
+  </product>
+  <product>
+    <ID>10</ID>
+    <ProductName>Product 10</ProductName>
+    <Price>10</Price>
+    <Category>Electronic</Category>
+  </product>
+</Products>
